@@ -1,0 +1,14 @@
+{
+    "name": "whistle/baiduocr",
+    "description": "this is  baidu ocr",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MrTom",
+            "email": "540054895@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
