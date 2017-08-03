@@ -6,7 +6,7 @@
  * Time: 15:56
  */
 
-namespace RCJ\Ocr;
+namespace whiStle\baiduOcr;
 
 use Illuminate\Support\Facades\Facade;
 class AipOcrFacade extends Facade

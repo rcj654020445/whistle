@@ -6,10 +6,10 @@
  * Time: 14:50
  */
 
-namespace RCJ\Ocr;
+namespace whiStle\baiduOcr;
 
 use Illuminate\Support\ServiceProvider;
-use RCJ\Ocr\AipOcr;
+use whiStle\baiduOcr\AipOcr;
 
 class BaidOcrProvider extends ServiceProvider
 {

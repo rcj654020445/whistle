@@ -6,9 +6,9 @@
  * Time: 14:55
  */
 
-namespace RCJ\Ocr;
+namespace whiStle\baiduOcr;
 
-use RCJ\Ocr\AipBase;
+use whiStle\baiduOcr\AipBase;
 
 /**
  * 文字OCR

@@ -6,7 +6,7 @@
  * Date: 2017/8/2
  * Time: 15:00
  */
-namespace RCJ\Ocr;
+namespace whiStle\baiduOcr;
 /**
  * Http Client
  */

@@ -6,11 +6,11 @@
  * Date: 2017/8/2
  * Time: 14:59
  */
-namespace RCJ\Ocr;
+namespace whiStle\baiduOcr;
 
-use RCJ\Ocr\AipHttpUtil;
-use RCJ\Ocr\AipHttpClient;
-use RCJ\Ocr\AipImageUtil;
+use whiStle\baiduOcr\AipHttpUtil;
+use whiStle\baiduOcr\AipHttpClient;
+use whiStle\baiduOcr\AipImageUtil;
 
 /**
  * Aip Base 基类
