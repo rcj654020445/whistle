@@ -9,7 +9,6 @@
             "email": "654020445@qq.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
