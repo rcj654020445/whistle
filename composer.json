@@ -1,6 +1,6 @@
 {
     "name": "whistle/baiduocr",
-    "description": "this is  baidu ocr",
+    "description": "This is the baidu OCR operation API",
     "type": "library",
     "license": "MIT",
     "authors": [
