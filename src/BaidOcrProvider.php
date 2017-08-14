@@ -48,11 +48,4 @@ class BaidOcrProvider extends ServiceProvider
     {
         return array('AipOcr');
     }
-
-    public function __call($name, $arguments)
-    {
-        echo '3';
-        exit();
-        // TODO: Implement __call() method.
-    }
 }
