@@ -2,7 +2,7 @@
     "name": "whistle/baiduocr",
     "description": "This is the baidu OCR operation API",
     "type": "library",
-    "license": "Apche 2.0",
+    "license": "MIT",
     "homepage": "https://github.com/rcj654020445/whistle",
     "authors": [
         {
