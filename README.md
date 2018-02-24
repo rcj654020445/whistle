@@ -1,5 +1,9 @@
+
 ## 介绍
 这是百度AI平台的OCR工具laravel扩展包，他提供例如身份证照片识别，银行卡照片识别，文字识别、网图OCR识别、生僻字OCR识别、行驶证识别、驾驶证等其他文字识别功能。
+<p align="left">
+    <a href="https://travis-ci.org/rcj654020445/whistle"><img src="https://travis-ci.org/rcj654020445/whistle.svg?branch=master" alt="Build Status"></a>
+</p>
 
 ## install
 ```
