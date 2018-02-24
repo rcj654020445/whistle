@@ -52,5 +52,5 @@
 ```
     车牌
     Ocr::licensePlate(string $img)
- ```
+```
 
